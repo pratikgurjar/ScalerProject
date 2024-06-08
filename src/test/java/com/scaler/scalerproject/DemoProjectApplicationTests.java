@@ -1,4 +1,4 @@
-package com.scaler.demoproject;
+package com.scaler.scalerproject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
